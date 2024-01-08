@@ -3,3 +3,5 @@ Finding someone lost at sea is a difficult task. Even when a â€œman over boardâ€
 The first task of analyzing such a video would be the detection of the object, initial position is assumed to be known.
 Once detected and localized in the video, the next task is to keep track of the object so that a rescue vessel can approach it.
 The third task is to estimate the distance of the test buoy to the camera, which would be useful information of a rescue operation in a real situation.
+
+First we (me and my collegues Davide Berasi and Jose Martins) decided to stabilize the video estimating tilting and pitching angle using the horizon line and then start tracking the man (buoy), finally we could estimate the distance. For more details on how we do it you can contact me
